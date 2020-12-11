@@ -66,3 +66,11 @@ System Versions follow the following format:
   - patchlevel (only when release type is final)
 
 eg. `2.3.4-a1` Major: 2, Minor: 3, Tiny: 4, Release Type: Alpha, Release Version Number: 1
+
+## Mounting Mode
+
+A system needs to be integrated into your learning platform and there are two different modes of mounting: Intenral and Service.
+
+**Internal mode** is when the system is mounted directly into the codebase. Many core systems have to be internally mounted since they are abstract in nature or form the foundation for other systems.
+
+**Service mode** is when the system runs on its own isolate cloud infrastructure. This allows the service to be highly avaliable. Critical system like Payments or Authenication are generally running as their own service, so that in the event other minor system fail, they do not affect core systems.
