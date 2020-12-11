@@ -37,3 +37,5 @@ The Homepage Dashboard will allow admin's to monitor various TeacherSeat resourc
 ## Finding Services
 
 The Admin Panel is composed of various systems. To navigate to these systems an admin can access them form the Services dropdown in the header. If a particular systems cannot be found it is because an admin doesn't have permission to access that sysytem or the system is not registered for use in the learning platform.
+
+![](media/introduction-finding-services.png)
