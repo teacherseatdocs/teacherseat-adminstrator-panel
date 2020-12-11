@@ -6,4 +6,4 @@
   - [Introduction to the Admin Panel](/overview/introduction.md)
 - Concepts
   - [Systems and Subsystems](concepts/systems-and-subsystems.md)
-  - Resources
+  - [Resources](concepts/resources.md)
