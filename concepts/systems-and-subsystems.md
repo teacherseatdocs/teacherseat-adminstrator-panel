@@ -8,6 +8,8 @@ Systems and subsystems are what give the TeacherSeat learning platform rich func
 
 A System is a collection of features (subsystems) that logically define a specific service offering based on a business or technical domain.
 
+> The term service and system are interchangable and in some cases we'll use the the word service
+
 Examples of notable systems:
 - Identity and Access Management
 - Student Management
@@ -15,9 +17,11 @@ Examples of notable systems:
 - Payments Management
 - Support Management
 
-> The term service and system are interchangable and in some cases we'll use the the word service
+
+
 
 ## What is a Subsystem?
+
 
 ## What is a System plugin?
 
