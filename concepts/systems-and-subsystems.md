@@ -39,6 +39,30 @@ A System plugin provides addtional functionality to a subsystem. Generally Syste
 
 ## Systems Management
 
-Systems Management is a core system used to managed the installation and registration of other systems.
+Systems Management is a core system used to manage the installation and registration of other systems and subsystems.
 
 ### Registering and Deregistering Systems
+
+In Systems Management an admin has the option to register or unregister a systems:
+
+**Registering** a system will enable the service for use in your learning platform. If the system is a Vendor Managed pr TeacherSeat Managed system for the TeacherSeat marketplace, you may be required to provide addtional information such as payment information in order to the use service.
+
+**Unregistering** a system will disable the service for use in your learning platform
+
+#### System and Subsystem Indentifer
+
+Systems and Subsystems have a unique identifer that follows the following format:
+- Provider.Namespace.System *eg. TeacherSeat.Student.TeamInsights*
+- Provider.Namespace.System.Subsystem *eg. TeacherSeat.Admin.IAM.Policies*
+
+#### System Versions
+
+System Versions follow the following format:
+- major
+- minor
+- tiny
+- release_type eg. final, alpha, beta, release candidate
+  - release_version_number (for types other eg. beta, alpha, rc)
+  - patchlevel (only when release type is final)
+
+eg. `2.3.4-a1` Major: 2, Minor: 3, Tiny: 4, Release Type: Alpha, Release Version Number: 1
