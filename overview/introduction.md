@@ -26,6 +26,8 @@ Students and Administrators use the same login page to access the admin panel. e
 When both a Student and Administrator login they will always first be brought to the student panel.
 If a user is an Adminstrator, they will see in the **User Dropdown** a link to Admin, when they click on that link they will be redirected to the Admin Homepage Dashboard.
 
+![](media/introduction-user-dropdown.png?s=100)
+
 ## Admin Homepage Dashboard
 
 The **root** of the Admin Panel is located at `https://demo.teacherseat.com/section31` and this page is known as the Homepage Dashboard. 
