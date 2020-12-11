@@ -17,11 +17,13 @@ Examples of notable systems:
 - Payments Management
 - Support Management
 
+eg. The Identity and Access Management system is a core service that with the subsystems Users, Policies and Roles
 
-
+![](media/concepts-systems-system.png)
 
 ## What is a Subsystem?
 
+A subsystem is a feature that resides within a system.
 
 ## What is a System plugin?
 
