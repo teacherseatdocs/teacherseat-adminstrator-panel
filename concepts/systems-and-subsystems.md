@@ -17,7 +17,7 @@ Examples of notable systems:
 - Payments Management
 - Support Management
 
-eg. The Identity and Access Management system is a core service that with the subsystems Users, Policies and Roles
+eg. The Identity and Access Management system is a core service with the following subsystems: Users, Policies and Roles
 
 ![](media/concepts-systems-system.png)
 
