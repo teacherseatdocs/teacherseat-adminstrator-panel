@@ -1,14 +1,25 @@
 # Systems and Subsystems
 
-Systems and subsystems are what give the TeacherSeat learning platform additional functionality. The majority of functionality that a user will access across the Student and Admin panels with span multiple systems.
+Systems and subsystems are what give the TeacherSeat learning platform rich functionality that a user will access across the Student and Admin panel. 
 
 > Think of how AWS or Azure has many cloud services (systems) with specific cloud features (subsystems). 
 
 ## What is a System?
 
-A System represent a specific service offering within your learning platform.
+A System is a collection of features (subsystems) that logically define a specific service offering based on a business or technical domain.
+
+Examples of notable systems:
+- Identity and Access Management
+- Student Management
+- Content Management
+- Payments Management
+- Support Management
+
+> The term service and system are interchangable and in some cases we'll use the the word service
 
 ## What is a Subsystem?
+
+## What is a System plugin?
 
 ## Systems Management
 
