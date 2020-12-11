@@ -23,6 +23,8 @@ When users sign up to your learning platform, they are signing up as students an
 
 Students and Administrators use the same login page to access the admin panel. eg. `https://demo.teacherseat.com/login`
 
+![](overview/introduction-login-page.png)
+
 When both a Student and Administrator login they will always first be brought to the student panel.
 If a user is an Adminstrator, they will see in the **User Dropdown** a link to Admin, when they click on that link they will be redirected to the Admin Homepage Dashboard.
 
